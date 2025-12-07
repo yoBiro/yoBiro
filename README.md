@@ -1,6 +1,5 @@
 ## Welcome to my GitHub!
-
-<!--
+---
 # 💫 About Me:
 📘 Student in System Development at ETEC.<br>📌 Currently study Java and Databases like PostgreSQL and MSSQL for the Back-End Development.
 
@@ -20,5 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yoBiro&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
