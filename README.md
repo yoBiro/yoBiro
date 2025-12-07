@@ -1,6 +1,5 @@
 ## Welcome to my GitHub!
 ---
-# 💫 About Me:
 📘 Student in System Development at ETEC.<br>📌 Currently study Java and Databases like PostgreSQL and MSSQL for the Back-End Development.
 
 
