@@ -8,3 +8,5 @@
 - Software Developer Trainee
 
 # Tech Stack
+## Languages
+<img src="/java.svg" width='42px' height='42px'> <img src="/typescript.svg" width='42px' height='42px'>
