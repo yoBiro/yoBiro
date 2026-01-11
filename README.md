@@ -1,4 +1,4 @@
-<img align='right' src="/Logo Portfolio.svg" alt="ilustração do status do github" width='500px' height='500px'>
+<img align='right' src="/Logo Portfolio.svg" alt="ilustração do status do github" width='275px' height='275px'>
 
 # 👋 Hello There! I'm Gabriel Santos!
 
@@ -8,8 +8,12 @@
 
 <div align="center">
 
-# Tech Stack
-<img src="/java.svg" width='42px' height='42px'> <img src="/typescript.svg" width='42px' height='42px'> <img src="/javascript.svg" width='42px' height='42px'> <img src="/vscode.svg" width='42px' height='42px'> <img src="/intellijidea.svg" width='42px' height='42px'> <img src="/nodejs.svg" width='42px' height='42px'> <img src="/fastify.svg" width='42px' height='42px'> <img src="/git.svg" width='42px' height='42px'> <img src="/postgresql.svg" width='42px' height='42px'> <img src="/sql-server.svg" width='42px' height='42px'> <img src="/vercel_dark.svg" width='42px' height='42px'> <img src="/linux.svg" width='42px' height='42px'>
+## Tech Stack
+### Skill 🏅
+<img src="/vscode.svg" width='42px' height='42px'> <img src="/java.svg" width='42px' height='42px'> <img src="/javascript.svg" width='42px' height='42px'> <img src="/intellijidea.svg" width='42px' height='42px'> <img src="/git.svg" width='42px' height='42px'> <img src="/sql-server.svg" width='42px' height='42px'>
+
+### Learning 🎯
+ <img src="/typescript.svg" width='42px' height='42px'> <img src="/nodejs.svg" width='42px' height='42px'> <img src="/fastify.svg" width='42px' height='42px'> <img src="/postgresql.svg" width='42px' height='42px'> <img src="/vercel_dark.svg" width='42px' height='42px'> <img src="/linux.svg" width='42px' height='42px'>
 
 # GitHub Stats
   
